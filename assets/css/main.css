@@ -179,6 +179,11 @@ input, select, textarea {
 		color: #000000;
 		border-bottom: dotted 1px;
 	}
+	a img {
+		text-decoration: none;
+		outline: none;
+		border: 0px none transparent;
+	}
 
 		a:hover {
 			text-decoration: none;
